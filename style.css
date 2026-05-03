@@ -372,10 +372,17 @@ p {
 
 .portrait-frame img,
 .photo-card img {
+<<<<<<< HEAD
   width: 100%;
   height: 100%;
   object-fit: cover;
   border-radius: 30px;
+=======
+  border-radius: 30px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+>>>>>>> 9ada38c41b441df992e4f2e2bca46337860477ec
   transition: transform 280ms ease, filter 280ms ease;
 }
 
